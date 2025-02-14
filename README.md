@@ -3,11 +3,11 @@
 A simple **Amazon homepage clone** built using **HTML & CSS only**. This project replicates the layout of Amazon's homepage, featuring a responsive design, product sections, and a structured UI without JavaScript.
 
 ## 📌 Features
-🔹 **Responsive header** with Amazon logo, search bar, and cart icon.
-🔹 **Hero section** showcasing featured products and offers.
-🔹 **Product grid** with multiple categories and cards.
-🔹 **Footer section** with links to company info, policies, and support.
-- 
+- **Responsive header** with Amazon logo, search bar, and cart icon.
+- **Hero section** showcasing featured products and offers.
+- **Product grid** with multiple categories and cards.
+- **Footer section** with links to company info, policies, and support.
+
 ## 🛠️ Tech Stack
 - **HTML5** – Page structure and content.
 - **CSS3** – Styling and layout (Flexbox, Grid, Media Queries).
