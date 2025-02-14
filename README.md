@@ -14,6 +14,7 @@ A simple **Amazon homepage clone** built using **HTML & CSS only**. This project
 
 ## 📸 Screenshots
 ![Screenshot 2024-08-01 142723](https://github.com/user-attachments/assets/03c92a5e-6ff0-47ae-9a12-42702a9b5462)
+![Screenshot 2024-07-24 130511](https://github.com/user-attachments/assets/5e4afd92-c790-4648-a394-5b1f685d31fb)
 
 ## 💡 Future Improvements
 - Add JavaScript for interactivity.
